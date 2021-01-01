@@ -1,0 +1,4 @@
+-- Prelude> let r = 0
+-- Prelude> let area r = pi * r ^ 2
+-- Prelude> area 5
+-- 78.53981633974483
